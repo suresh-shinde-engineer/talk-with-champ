@@ -1,0 +1,142 @@
+{
+  "data" : [
+    {
+      "type" : "template"
+    },
+    {
+      "id" : "function-getForcast",
+      "type" : "function",
+      "name" : "getForcast"
+    },
+    {
+      "id" : "function-getForecast",
+      "type" : "function",
+      "name" : "getForecast"
+    },
+    {
+      "id" : "template- 1 BHK is 560 sq ft and 2 BHK is 950 Sq Ft. ",
+      "type" : "template",
+      "template" : " 1 BHK is 560 sq ft and 2 BHK is 950 Sq Ft. "
+    },
+    {
+      "id" : "template- 1 BHK will be 28 Lakh (all inclusive) and 2BHK 46 Lakh (all inclusive)\n",
+      "type" : "template",
+      "template" : " 1 BHK will be 28 Lakh (all inclusive) and 2BHK 46 Lakh (all inclusive)\n"
+    },
+    {
+      "id" : "template- Clubhouse, swimming pool, amphitheater, gymnasium, garden, power backups for elevators etc. ",
+      "type" : "template",
+      "template" : " Clubhouse, swimming pool, amphitheater, gymnasium, garden, power backups for elevators etc. "
+    },
+    {
+      "id" : "template- NIBM Annexe, Undri-Pisoli Road",
+      "type" : "template",
+      "template" : " NIBM Annexe, Undri-Pisoli Road"
+    },
+    {
+      "id" : "template- Our executives will assist you to locate the project. Although we do not provide pick and drop assistance. ",
+      "type" : "template",
+      "template" : " Our executives will assist you to locate the project. Although we do not provide pick and drop assistance. "
+    },
+    {
+      "id" : "template- Sir, please let us know your convenient timings and we will book your site-visit accordingly.\n ",
+      "type" : "template",
+      "template" : " Sir, please let us know your convenient timings and we will book your site-visit accordingly.\n "
+    },
+    {
+      "id" : "template- When will we get the possession? ",
+      "type" : "template",
+      "template" : " When will we get the possession? "
+    },
+    {
+      "id" : "template- Yes, you can get the home-loan assistance from HDFC, AXIS and SBI.\n ",
+      "type" : "template",
+      "template" : " Yes, you can get the home-loan assistance from HDFC, AXIS and SBI.\n "
+    },
+    {
+      "id" : "template-Flats are ready possession flats.",
+      "type" : "template",
+      "template" : "Flats are ready possession flats."
+    },
+    {
+      "id" : "template-Hello Sir/Madam",
+      "type" : "template",
+      "template" : "Hello Sir/Madam"
+    },
+    {
+      "id" : "template-Hello Surseh",
+      "type" : "template",
+      "template" : "Hello Surseh"
+    },
+    {
+      "id" : "template-NIBM Annexe, Undri-Pisoli Road",
+      "type" : "template",
+      "template" : "NIBM Annexe, Undri-Pisoli Road"
+    },
+    {
+      "id" : "template-Tell me how may I Assist you?",
+      "type" : "template",
+      "template" : "Tell me how may I Assist you?"
+    },
+    {
+      "id" : "template-Wheather Forecast will be {forecast}",
+      "type" : "template",
+      "template" : "Wheather Forecast will be {forecast}",
+      "requirements" : [
+        {
+          "name" : "forecast",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-Wheather Forecast will be {fo}",
+      "type" : "template",
+      "template" : "Wheather Forecast will be {fo}",
+      "requirements" : [
+        {
+          "name" : "fo",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-hello",
+      "type" : "template",
+      "template" : "hello"
+    },
+    {
+      "id" : "template-hello {name}",
+      "type" : "template",
+      "template" : "hello {name}",
+      "requirements" : [
+        {
+          "name" : "name",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-{ location} NIBM Annexe, Undri-Pisoli Road",
+      "type" : "template",
+      "template" : "{ location} NIBM Annexe, Undri-Pisoli Road",
+      "requirements" : [
+        {
+          "name" : " location",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-{name}",
+      "type" : "template",
+      "template" : "{name}",
+      "requirements" : [
+        {
+          "name" : "name",
+          "negative" : false
+        }
+      ]
+    }
+  ]
+}

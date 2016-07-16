@@ -1,0 +1,8 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip champ.zip champ/app.json champ/entities/*.json champ/actions.json champ/stories.json champ/expressions.json",
+  "data" : {
+    "name" : "champ",
+    "lang" : "en"
+  }
+}

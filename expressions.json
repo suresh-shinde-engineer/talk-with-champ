@@ -1,0 +1,90 @@
+{
+  "data" : [
+    {
+      "text" : "Do you have bank finance facility available?"
+    },
+    {
+      "text" : "Hi"
+    },
+    {
+      "text" : "I want to know about aminities?"
+    },
+    {
+      "text" : "What all amenities do you have?"
+    },
+    {
+      "text" : "What are more benifits?"
+    },
+    {
+      "text" : "What are the areas of 1BHK and 2BHK Flats?"
+    },
+    {
+      "text" : "What are the rates?"
+    },
+    {
+      "text" : "What is wheather in Pune?",
+      "entities" : [
+        {
+          "entity" : "temperature",
+          "value" : "\"wheather\"",
+          "start" : 8,
+          "end" : 16
+        }
+      ]
+    },
+    {
+      "text" : "When can I see the site?"
+    },
+    {
+      "text" : "When will we get the possession?"
+    },
+    {
+      "text" : "Where is the project location and direction?",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"Where\"",
+          "start" : 0,
+          "end" : 5
+        },
+        {
+          "entity" : "contact",
+          "value" : "\"location\"",
+          "start" : 21,
+          "end" : 29
+        }
+      ]
+    },
+    {
+      "text" : "Where is the project location?",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"location\"",
+          "start" : 21,
+          "end" : 29
+        }
+      ]
+    },
+    {
+      "text" : "Will you provide the services to do the site visit?"
+    },
+    {
+      "text" : "hi"
+    },
+    {
+      "text" : "hi "
+    },
+    {
+      "text" : "hi name",
+      "entities" : [
+        {
+          "entity" : "contact",
+          "value" : "\"name\"",
+          "start" : 3,
+          "end" : 7
+        }
+      ]
+    }
+  ]
+}
